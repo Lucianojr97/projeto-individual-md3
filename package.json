@@ -1,0 +1,24 @@
+{
+  "name": "trabalho-individual-m3",
+  "version": "1.0.0",
+  "description": "Trabalho Individual M3",
+  "main": "ind.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucianojr97/Trabalho-individual-M3.git"
+  },
+  "author": "Luciano Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucianojr97/Trabalho-individual-M3/issues"
+  },
+  "homepage": "https://github.com/Lucianojr97/Trabalho-individual-M3#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "uuidv4": "^6.2.13"
+  }
+}
